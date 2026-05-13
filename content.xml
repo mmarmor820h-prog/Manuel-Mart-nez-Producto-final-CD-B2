@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260513175504J8TY12</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605131755049JL76U</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto &quot;Cómo somos&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Recurso de presentación para la SA &quot;Cómo somos&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manuel Diego Martínez Moreno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Tarea solicitada para el producto final del curso &quot;Competencia Digital B2&quot;. Esta trata sobre una SA para 3º de Educación Primaria, denominada &quot;Cómo Somos&quot;, la cual presenta contenidos, recursos, etc. para adquirir conceptos relacionados con el cuerpo humano, hábitos saludables...en las áreas de Conocimiento del Medio y EF.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778668962008</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp3rhhle-zkxhi68ms</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto: SA &quot;Cómo Somos&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto: SA &quot;Cómo Somos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto: SA &quot;Cómo Somos&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3rhhle-zkxhi68ms</odePageId>
+      <odeBlockId>block-1778660375557-xo56w5dnl</odeBlockId>
+      <blockName>Canva &quot;COMO SOMOS&quot;</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3rhhle-zkxhi68ms</odePageId>
+          <odeBlockId>block-1778660375557-xo56w5dnl</odeBlockId>
+          <odeIdeviceId>idevice-1778660375546-bv7o25ztd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se adjunta el Canva de presentación de la SA. Este recurso es elaborado por la figura del docente para dejarlo a disposición del alumnado mediante el enlace adjuntado.</p>
+<p><a href="https://canva.link/5nzymcjiyuwexl3" title="Canva &quot;Cómo somos&quot;">https://canva.link/5nzymcjiyuwexl3</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778660375546-bv7o25ztd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se adjunta el Canva de presentación de la SA. Este recurso es elaborado por la figura del docente para dejarlo a disposición del alumnado mediante el enlace adjuntado.</p>\n<p><a href=\"https://canva.link/5nzymcjiyuwexl3\" title=\"Canva &quot;Cómo somos&quot;\">https://canva.link/5nzymcjiyuwexl3</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778660870817-dbtzk7xqm</odePageId>
+  <odeParentPageId>page-mp3rhhle-zkxhi68ms</odeParentPageId>
+  <pageName>Justificación pedagógica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación pedagógica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778660870817-dbtzk7xqm</odePageId>
+      <odeBlockId>block-1778668969071-d14wnnf9l</odeBlockId>
+      <blockName>¿Por qué hemos decidido hacer esta SA?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778660870817-dbtzk7xqm</odePageId>
+          <odeBlockId>block-1778668969071-d14wnnf9l</odeBlockId>
+          <odeIdeviceId>idevice-1778668969056-jfy5p3zxg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta actividad se justifica bajo un marco de metodología activa (aprendizaje cooperativo y gamificado) y aprendizaje significativo por las siguientes razones:</p>
+<p><strong>A. Motivación y Conexión con la Vida Cotidiana (Sentimientos)</strong><br />El alumnado muestra una mayor motivación cuando los contenidos están relacionados con su propia realidad y experiencias diarias. Trabajar el cuerpo humano y los hábitos saludables permite conectar el aprendizaje con acciones cercanas como la alimentación, la higiene, el descanso o el ejercicio físico. El uso de recursos visuales e interactivos favorece la curiosidad y el interés, generando una actitud positiva hacia el aprendizaje y el cuidado personal.</p>
+<p><strong>B. Aprendizaje a través de la Participación Activa (Descripción)</strong><br />El docente actúa como guía y facilitador, promoviendo que el alumnado descubra y construya sus conocimientos mediante actividades dinámicas, preguntas guiadas, juegos y recursos digitales. De esta forma, los contenidos relacionados con las partes del cuerpo humano y los hábitos saludables se trabajan de manera funcional, práctica y significativa, favoreciendo la comprensión y la aplicación en su vida diaria en lugar de un aprendizaje memorístico.</p>
+<p><strong>C. Desarrollo de la Autonomía y el Trabajo Cooperativo (Evaluación y Análisis)</strong><br />Se fomenta el aprendizaje cooperativo mediante actividades en parejas y pequeños grupos, favoreciendo la comunicación, la ayuda entre iguales y el respeto por los diferentes ritmos de aprendizaje. El alumnado con mayor facilidad podrá apoyar a quienes necesiten más ayuda, fortaleciendo la cohesión grupal y las habilidades sociales. Además, las actividades estarán adaptadas y secuenciadas de manera clara para evitar sobrecargas y facilitar la participación activa de todo el alumnado.</p>
+<p><strong>D. Eficacia del Aprendizaje Significativo (Conclusión)</strong><br />La experiencia demuestra que la combinación de recursos visuales, dinámicas participativas y contenidos cercanos al entorno del alumnado favorece un aprendizaje más motivador y duradero. Esta propuesta didáctica permite consolidar conocimientos sobre el cuerpo humano y adquirir hábitos saludables desde una perspectiva práctica y vivencial, asegurando que el alumnado comprenda la importancia del autocuidado y pueda aplicar lo aprendido en su vida cotidiana.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778668969056-jfy5p3zxg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta actividad se justifica bajo un marco de metodología activa (aprendizaje cooperativo y gamificado) y aprendizaje significativo por las siguientes razones:</p>\n<p><strong>A. Motivación y Conexión con la Vida Cotidiana (Sentimientos)</strong><br />El alumnado muestra una mayor motivación cuando los contenidos están relacionados con su propia realidad y experiencias diarias. Trabajar el cuerpo humano y los hábitos saludables permite conectar el aprendizaje con acciones cercanas como la alimentación, la higiene, el descanso o el ejercicio físico. El uso de recursos visuales e interactivos favorece la curiosidad y el interés, generando una actitud positiva hacia el aprendizaje y el cuidado personal.</p>\n<p><strong>B. Aprendizaje a través de la Participación Activa (Descripción)</strong><br />El docente actúa como guía y facilitador, promoviendo que el alumnado descubra y construya sus conocimientos mediante actividades dinámicas, preguntas guiadas, juegos y recursos digitales. De esta forma, los contenidos relacionados con las partes del cuerpo humano y los hábitos saludables se trabajan de manera funcional, práctica y significativa, favoreciendo la comprensión y la aplicación en su vida diaria en lugar de un aprendizaje memorístico.</p>\n<p><strong>C. Desarrollo de la Autonomía y el Trabajo Cooperativo (Evaluación y Análisis)</strong><br />Se fomenta el aprendizaje cooperativo mediante actividades en parejas y pequeños grupos, favoreciendo la comunicación, la ayuda entre iguales y el respeto por los diferentes ritmos de aprendizaje. El alumnado con mayor facilidad podrá apoyar a quienes necesiten más ayuda, fortaleciendo la cohesión grupal y las habilidades sociales. Además, las actividades estarán adaptadas y secuenciadas de manera clara para evitar sobrecargas y facilitar la participación activa de todo el alumnado.</p>\n<p><strong>D. Eficacia del Aprendizaje Significativo (Conclusión)</strong><br />La experiencia demuestra que la combinación de recursos visuales, dinámicas participativas y contenidos cercanos al entorno del alumnado favorece un aprendizaje más motivador y duradero. Esta propuesta didáctica permite consolidar conocimientos sobre el cuerpo humano y adquirir hábitos saludables desde una perspectiva práctica y vivencial, asegurando que el alumnado comprenda la importancia del autocuidado y pueda aplicar lo aprendido en su vida cotidiana.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp3rhhm0-owicpj5nd</odePageId>
+  <odeParentPageId>page-mp3rhhle-zkxhi68ms</odeParentPageId>
+  <pageName>Guía para tu seguridad y privacidad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía para tu seguridad y privacidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía para tu seguridad y privacidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp3rhhm0-owicpj5nd</odePageId>
+      <odeBlockId>block-1778685515822-wplkyawxg</odeBlockId>
+      <blockName>Infografía Seguridad Digital</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp3rhhm0-owicpj5nd</odePageId>
+          <odeBlockId>block-1778685515822-wplkyawxg</odeBlockId>
+          <odeIdeviceId>idevice-1778685515773-clbzvphgq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778685515773-clbzvphgq" title="" href="{{context_path}}/content/resources/Guía protección digital alumnado (3)_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Guía protección digital alumnado (3)_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778685515773-clbzvphgq","img_0":{"img":"{{context_path}}/content/resources/Guía protección digital alumnado (3)_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Guía protección digital alumnado (3)_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778660882935-kefbhouf7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778660882935-kefbhouf7</odePageId>
+      <odeBlockId>block-1778671882613-u4nmev5vi</odeBlockId>
+      <blockName>Flashcards del Cuerpo Humano</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778660882935-kefbhouf7</odePageId>
+          <odeBlockId>block-1778671882613-u4nmev5vi</odeBlockId>
+          <odeIdeviceId>idevice-1778671882595-p59f64qf6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado se organizará en pequeños grupos de trabajo. Tras una puesta en común inicial con todo el grupo-clase, se realizará el reparto de contenidos, de manera que cada equipo será responsable de elaborar varias flashcards sobre un elemento concreto del cuerpo humano (huesos, músculos o partes del cuerpo) asignado previamente.</p>
+<p>Mediante el uso de Canva, cada grupo diseñará sus tarjetas incorporando imágenes, nombre del elemento, información básica y algún recurso visual o pista que facilite su identificación y memorización. Antes de la entrega final, los equipos revisarán conjuntamente sus producciones para asegurar que el formato y la información sean claros, atractivos y útiles para el aprendizaje.</p>
+<p>El producto final tendrá una finalidad colectiva: todas las flashcards creadas por los distintos grupos pasarán a formar parte de un banco común de recursos del aula, disponible para el gran grupo. De este modo, el alumnado podrá utilizarlas posteriormente en dinámicas de juego, repaso y aprendizaje activo, como memory, retos de identificación, clasificación o concursos por equipos.</p>
+<p>Esta actividad favorece el trabajo cooperativo, la responsabilidad compartida, la competencia digital y la construcción de materiales de aprendizaje útiles para todo el grupo, promoviendo además la participación activa y el sentimiento de contribución al aprendizaje colectivo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778671882595-p59f64qf6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado se organizará en pequeños grupos de trabajo. Tras una puesta en común inicial con todo el grupo-clase, se realizará el reparto de contenidos, de manera que cada equipo será responsable de elaborar varias flashcards sobre un elemento concreto del cuerpo humano (huesos, músculos o partes del cuerpo) asignado previamente.</p>\n<p>Mediante el uso de Canva, cada grupo diseñará sus tarjetas incorporando imágenes, nombre del elemento, información básica y algún recurso visual o pista que facilite su identificación y memorización. Antes de la entrega final, los equipos revisarán conjuntamente sus producciones para asegurar que el formato y la información sean claros, atractivos y útiles para el aprendizaje.</p>\n<p>El producto final tendrá una finalidad colectiva: todas las flashcards creadas por los distintos grupos pasarán a formar parte de un banco común de recursos del aula, disponible para el gran grupo. De este modo, el alumnado podrá utilizarlas posteriormente en dinámicas de juego, repaso y aprendizaje activo, como memory, retos de identificación, clasificación o concursos por equipos.</p>\n<p>Esta actividad favorece el trabajo cooperativo, la responsabilidad compartida, la competencia digital y la construcción de materiales de aprendizaje útiles para todo el grupo, promoviendo además la participación activa y el sentimiento de contribución al aprendizaje colectivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778660902242-aor764e0o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778660902242-aor764e0o</odePageId>
+      <odeBlockId>block-1778672264356-4anaizxdd</odeBlockId>
+      <blockName>Aplicaciones</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778660902242-aor764e0o</odePageId>
+          <odeBlockId>block-1778672264356-4anaizxdd</odeBlockId>
+          <odeIdeviceId>idevice-1778672264351-oetanduhn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se adjunta los enlaces, tanto los utilizados como docente como por el alumnado. Añadir, que ambas aplicaciones podrían ser utilizadas por ambos, pero en mayor medida sería de la siguiente manera:</p>
+<p>Aplicación utilizada, en mayor medida, por el alumnado sería Padlet. En dicha materia se pueden encontrar numerosos recursos de aprendizaje:</p>
+<p><a href="https://padlet.com/mmarmor820h/como-somos-yzdxatqd8byofcal" title="Padlet">https://padlet.com/mmarmor820h/como-somos-yzdxatqd8byofcal</a></p>
+<p>Aplicación utilizada por la figura docente sería Symbaloo. En esta aplicación obtenemos enlaces directos a los recursos y/o aplicaciones más utilizadas durnte este proyecto, como por ejemplo Youtube, Canva...:</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eP2K2hhL" title="Symbaloo">https://www.symbaloo.com/home/mix/13eP2K2hhL</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778672264351-oetanduhn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se adjunta los enlaces, tanto los utilizados como docente como por el alumnado. Añadir, que ambas aplicaciones podrían ser utilizadas por ambos, pero en mayor medida sería de la siguiente manera:</p>\n<p>Aplicación utilizada, en mayor medida, por el alumnado sería Padlet. En dicha materia se pueden encontrar numerosos recursos de aprendizaje:</p>\n<p><a href=\"https://padlet.com/mmarmor820h/como-somos-yzdxatqd8byofcal\" title=\"Padlet\">https://padlet.com/mmarmor820h/como-somos-yzdxatqd8byofcal</a></p>\n<p>Aplicación utilizada por la figura docente sería Symbaloo. En esta aplicación obtenemos enlaces directos a los recursos y/o aplicaciones más utilizadas durnte este proyecto, como por ejemplo Youtube, Canva...:</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eP2K2hhL\" title=\"Symbaloo\">https://www.symbaloo.com/home/mix/13eP2K2hhL</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778660935995-5pmgkkgx4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal del proyecto/SA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal del proyecto/SA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778660935995-5pmgkkgx4</odePageId>
+      <odeBlockId>block-1778685187297-66iklxmd7</odeBlockId>
+      <blockName>Infografía de la ruta de la SA</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778660935995-5pmgkkgx4</odePageId>
+          <odeBlockId>block-1778685187297-66iklxmd7</odeBlockId>
+          <odeIdeviceId>idevice-1778685187294-47935bgak</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778685187294-47935bgak" title="" href="{{context_path}}/content/resources/Vibrant Infographic Map for Education.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Vibrant Infographic Map for Education.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778685187294-47935bgak","img_0":{"img":"{{context_path}}/content/resources/Vibrant Infographic Map for Education.jpg","thumbnail":"{{context_path}}/content/resources/Vibrant Infographic Map for Education.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778661004856-kxv9vri6a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778661004856-kxv9vri6a</odePageId>
+      <odeBlockId>block-1778687396406-yxpgl35ji</odeBlockId>
+      <blockName>Organización de la evaluación</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778661004856-kxv9vri6a</odePageId>
+          <odeBlockId>block-1778687396406-yxpgl35ji</odeBlockId>
+          <odeIdeviceId>idevice-1778687396396-m624nhdi9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente guía didáctica tiene como finalidad facilitar el aprendizaje del alumnado sobre el cuerpo humano, sus principales partes, funciones y hábitos de cuidado personal. Este contenido es esencial para que los estudiantes comprendan mejor su propio cuerpo, desarrollen autonomía y adopten prácticas saludables desde edades tempranas.</p>
+<p>Para hacer el proceso de enseñanza más dinámico y participativo, se incorpora el uso de Plickers, herramienta digital que permite evaluar conocimientos de manera interactiva y objetiva mediante preguntas rápidas y retroalimentación inmediata. Su uso fomenta la motivación, la participación activa y la detección de avances o dificultades del alumnado sin necesidad de dispositivos individuales.</p>
+<p>Además, se emplea una lista de cotejo como instrumento de evaluación que facilita la observación subjetiva del progreso del alumnado en aspectos como identificación de partes del cuerpo, participación y hábitos de higiene. De esta manera, la propuesta combina tecnología y evaluación formativa para promover un aprendizaje significativo, inclusivo y adaptado a las necesidades del grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778687396396-m624nhdi9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente guía didáctica tiene como finalidad facilitar el aprendizaje del alumnado sobre el cuerpo humano, sus principales partes, funciones y hábitos de cuidado personal. Este contenido es esencial para que los estudiantes comprendan mejor su propio cuerpo, desarrollen autonomía y adopten prácticas saludables desde edades tempranas.</p>\n<p>Para hacer el proceso de enseñanza más dinámico y participativo, se incorpora el uso de Plickers, herramienta digital que permite evaluar conocimientos de manera interactiva y objetiva mediante preguntas rápidas y retroalimentación inmediata. Su uso fomenta la motivación, la participación activa y la detección de avances o dificultades del alumnado sin necesidad de dispositivos individuales.</p>\n<p>Además, se emplea una lista de cotejo como instrumento de evaluación que facilita la observación subjetiva del progreso del alumnado en aspectos como identificación de partes del cuerpo, participación y hábitos de higiene. De esta manera, la propuesta combina tecnología y evaluación formativa para promover un aprendizaje significativo, inclusivo y adaptado a las necesidades del grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778661026215-zhzg46gc3</odePageId>
+  <odeParentPageId>page-1778661004856-kxv9vri6a</odeParentPageId>
+  <pageName>Criterios de evaluación-tareas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación-tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778661026215-zhzg46gc3</odePageId>
+      <odeBlockId>block-1778686000174-0z8dvpstw</odeBlockId>
+      <blockName>Criterios-fases-actividades</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778661026215-zhzg46gc3</odePageId>
+          <odeBlockId>block-1778686000174-0z8dvpstw</odeBlockId>
+          <odeIdeviceId>idevice-1778686000154-igdggesaa</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778686000154-igdggesaa" title="" href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778686000154-igdggesaa" title="" href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0002.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0002.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778686000154-igdggesaa" title="" href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0003.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0003.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778686000154-igdggesaa","img_0":{"img":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0002.jpg","thumbnail":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0002.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0003.jpg","thumbnail":"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación__page-0003.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778661042629-7goprcjhi</odePageId>
+  <odeParentPageId>page-1778661004856-kxv9vri6a</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778661042629-7goprcjhi</odePageId>
+      <odeBlockId>block-1778687225908-ipwwgi111</odeBlockId>
+      <blockName>Plickers/Lista de cotejo</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778661042629-7goprcjhi</odePageId>
+          <odeBlockId>block-1778687225908-ipwwgi111</odeBlockId>
+          <odeIdeviceId>idevice-1778687225905-ovb9v7tle</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presentarán los instrumentos de evaluación presentados para este proyecto/SA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778687225905-ovb9v7tle","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presentarán los instrumentos de evaluación presentados para este proyecto/SA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778687018105-0cfs37u7p</odePageId>
+  <odeParentPageId>page-1778661042629-7goprcjhi</odeParentPageId>
+  <pageName>Plickers</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plickers</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778687018105-0cfs37u7p</odePageId>
+      <odeBlockId>block-1778687033817-fvnlu19np</odeBlockId>
+      <blockName>Evaluación digital</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778687018105-0cfs37u7p</odePageId>
+          <odeBlockId>block-1778687033817-fvnlu19np</odeBlockId>
+          <odeIdeviceId>idevice-1778687033808-ufzopv5r0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se adjunta el enlace de uno de los Plickers utilizados para la evaluación del alumnado:</p>
+<p><a href="http://www.plickers.com/manue5/CD-B2-89341" title="Plickers Fase Conclusión">www.plickers.com/manue5/CD-B2-89341</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778687033808-ufzopv5r0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se adjunta el enlace de uno de los Plickers utilizados para la evaluación del alumnado:</p>\n<p><a href=\"http://www.plickers.com/manue5/CD-B2-89341\" title=\"Plickers Fase Conclusión\">www.plickers.com/manue5/CD-B2-89341</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778687029336-m1f7z38xk</odePageId>
+  <odeParentPageId>page-1778661042629-7goprcjhi</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778687029336-m1f7z38xk</odePageId>
+      <odeBlockId>block-1778687176685-6wmrfb837</odeBlockId>
+      <blockName>Evaluación analógica</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778687029336-m1f7z38xk</odePageId>
+          <odeBlockId>block-1778687176685-6wmrfb837</odeBlockId>
+          <odeIdeviceId>idevice-1778687176673-9v4zfd4zd</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778687176673-9v4zfd4zd" title="" href="{{context_path}}/content/resources/Lista de cotejo CD B2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Lista de cotejo CD B2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778687176673-9v4zfd4zd","img_0":{"img":"{{context_path}}/content/resources/Lista de cotejo CD B2.jpg","thumbnail":"{{context_path}}/content/resources/Lista de cotejo CD B2.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778687527298-3kwegu94x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778687527298-3kwegu94x</odePageId>
+      <odeBlockId>block-1778687535002-2d8oypb56</odeBlockId>
+      <blockName>Autor: Manuel Martínez Moreno</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778687527298-3kwegu94x</odePageId>
+          <odeBlockId>block-1778687535002-2d8oypb56</odeBlockId>
+          <odeIdeviceId>idevice-1778687534997-enxxkyzpt</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto "Cómo somos"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Tarea solicitada para el producto final del curso "Competencia Digital B2". Esta trata sobre una SA para 3º de Educación Primaria, denominada "Cómo Somos", la cual presenta contenidos, recursos, etc. para adquirir conceptos relacionados con el cuerpo humano, hábitos saludables...en las áreas de Conocimiento del Medio y EF.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Manuel Diego Martínez Moreno</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
